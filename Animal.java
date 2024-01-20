@@ -3,6 +3,7 @@ public class Animal {
 
     public Animal(String name) {
         m_name = name;
+        int a = 4;
     }
 
     public void sayMyName() {
